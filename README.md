@@ -70,6 +70,10 @@ I believe AI is a powerful development partner, not a substitute for understandi
 
 And yes, sometimes the best solution is to delete the code and start over. We don't talk about how often.
 
+> Behind every success story, there are a thousand stories of failure.
+
+This applies to me and to the projects I have created; yet, I have learned a great deal from both and have grown tremendously—even through the countless projects that failed and never reached the stage of deployment.
+
 ## 🥛 A Few Things About Me
 * I enjoy exploring unconventional uses for familiar tools.
 * I like understanding why something works, not just copying a solution that happens to work.
