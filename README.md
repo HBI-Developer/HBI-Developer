@@ -9,6 +9,7 @@ I'm a software developer with a passion for building useful applications, explor
 - 🔭 **Currently building:** Web applications, desktop tools, and experiments that may or may not start with *"I wonder if I can..."*
 - 🧠 **My favorite tools:** React, TypeScript, and OpenCode.
 - 🤖 **My development style:** Human-in-the-Loop (HITL) — AI writes code, I provide direction, review decisions, debug the chaos, and make sure things actually work.
+- 🤔 **What I think:** AI has given me the ability to take on projects I never thought I would work on, and I have, in a sense, become a software engineer.
 - 🎨 **What I care about:** Clean code, thoughtful UX, accessibility, and maintainable architecture.
 - 🌱 **Always learning:** New technologies, better workflows, and creative ways to solve old problems.
 - 😐 **Current status:** Turning tea, curiosity, questionable ideas into software, and seeking a job.
@@ -17,7 +18,7 @@ I'm a software developer with a passion for building useful applications, explor
 
 **Frontend**
 - React, TypeScript, JavaScript
-- HTML, CSS, Sass
+- HTML, CSS, Sass, Tailwind
 - Vite, Responsive Design, Accessibility
 
 **Backend & Data**
